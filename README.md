@@ -22,6 +22,13 @@ ESPN Fantasy Football information to a GroupMe chat room.
 - Scoreboard - fri,mon,tue - 7:30 (Current ESPN fantasy scoreboard)
 - Scoreboard - sun - 16:30, 20:30 (Current ESPN fantasy scoreboard)
 
+**Additions by Conor**
+
+- Start-em, Sit-em, Sleepers for the week
+- Trade alerts
+- Championship/Sacko chances and/or predictions
+- Insults
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running 
